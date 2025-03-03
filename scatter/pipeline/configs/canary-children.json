@@ -1,0 +1,17 @@
+{
+  "name": "10代以下の自殺ハイリスク層が抱える問題",
+  "question": "インターネット・ゲートキーパー事業における10代以下の相談者からの相談内容",
+  "input": "canary-children",
+  "model": "gpt-4o",
+  "extraction": {
+    "prompt_file": "canary-children"
+  },
+  "labelling": {
+    "prompt_file": "canary-children",
+    "sample_size": 50
+  },
+  "takeaways": {
+    "prompt_file": "canary-children",
+    "sample_size": 50
+  }
+}

@@ -1,0 +1,13 @@
+.vscode
+venv
+.DS_Store
+__pycache__/
+
+pipeline/configs/example-polis.json
+
+pipeline/inputs/*
+pipeline/outputs/*
+
+.env
+
+
