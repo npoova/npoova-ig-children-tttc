@@ -1,6 +1,6 @@
 # Talk to the City（OVA改変版）
 
-本リポジトリは、特定非営利活動法人OVAが[Talk to the City](https://github.com/AIObjectives/talk-to-the-city-reports)に改変を加え、「インターネット・ゲートキーパー事業における10代以下の相談者からの相談内容」レポートを出力する際に使用したリポジトリです。
+本リポジトリは、特定非営利活動法人OVAが[Talk to the City](https://github.com/AIObjectives/talk-to-the-city-reports)に改変を加え、「NPO法人OVAの相談事業における子ども（10代以下）の相談内容」レポートを出力する際に使用したリポジトリです。
 
 
 ## 改変箇所
